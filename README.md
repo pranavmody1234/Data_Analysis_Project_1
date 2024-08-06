@@ -11,8 +11,8 @@
 
 <h3>Hypothesis 3:</h3>
 <p><b>Vaccination Rates in Metropolitan vs. Non-metropolitan Counties (January 2021 - December 2023):</b> Metropolitan counties in New York were 45% more vaccinated, likely because these counties have more hospitals.</p>
-<a href="https://public.tableau.com/views/DataVisualizationDashboard1-Hypo3_17229102482710/Dashboard6?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">View Dashboard 1</a>
-<a href="https://public.tableau.com/views/DataVisualizationDashboard2-Hypo3_17229115406010/Dashboard2-Hypo3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank"> Dashboard 2</a>
+<a href="https://public.tableau.com/views/DataVisualizationDashboard1-Hypo3_17229102482710/Dashboard6?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">View Dashboard 1</a><br>
+<a href="https://public.tableau.com/views/DataVisualizationDashboard2-Hypo3_17229115406010/Dashboard2-Hypo3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank"> Dashboard 2</a><br>
 <a href="https://public.tableau.com/views/DataVisualizationDashboard3-Hypo3_17229116170860/Dashboard3-Hypo3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank"> Dashboard 3</a>
   
 <h3>Hypothesis 4:</h3>
